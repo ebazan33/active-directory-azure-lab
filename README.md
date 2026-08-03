@@ -1,3 +1,5 @@
+Watch me build this lab: https://www.loom.com/share/d066112ff3d74b3fbcbb7efa77a59359
+
 # active-directory-azure-lab
 Built a Windows Server 2025 Active Directory domain on Azure, domain controller, OUs, groups, users, Group Policy, and account lifecycle automation with PowerShell.
 # Lab 1: Active Directory on Azure
